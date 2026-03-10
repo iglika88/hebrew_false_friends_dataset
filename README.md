@@ -27,7 +27,9 @@ Derived from Wiktionary using:
 ## Files
 
 - [**false_friends_BH_vs_MH_final.xlsx**](./false_friends_BH_vs_MH_final.xlsx)  
-  dataset in Excel format
+  dataset in Excel format  
+  
+Note: The dataset is encoded in UTF-8. If Hebrew characters do not display correctly in the browser preview, please download the file to view it properly.
 
 - [**false_friends_BH_vs_MH_final.csv**](./false_friends_BH_vs_MH_final.csv)  
   dataset in CSV format
